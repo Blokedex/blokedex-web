@@ -1,0 +1,11 @@
+{
+  "name": "blokedex",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Página en construcción de Blokedex.",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "packageManager": "pnpm@11.19.0"
+}
