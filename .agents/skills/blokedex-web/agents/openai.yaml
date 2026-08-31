@@ -1,0 +1,4 @@
+interface:
+  display_name: "Blokedex Web"
+  short_description: "Mantiene y publica la web de Blokedex"
+  default_prompt: "Actualiza la web de Blokedex, valida el cambio y mantén la skill del proyecto sincronizada."
