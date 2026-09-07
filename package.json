@@ -4,8 +4,8 @@
   "private": true,
   "description": "Página en construcción de Blokedex.",
   "scripts": {
-    "dev": "node server.js",
-    "start": "node server.js"
+    "dev": "node dev-server.js",
+    "start": "node dev-server.js"
   },
   "packageManager": "pnpm@11.19.0"
 }
