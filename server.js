@@ -20,5 +20,5 @@ createServer((request, response) => {
   }
 
   response.writeHead(200, { "Content-Type": file[1] });
-  response.end(readFileSync(join(__dirname, file[0])));
+  response.end(readFileSync(join(__dirname, "public", file[0])));
 }).listen(port, () => console.log(`Blokedex: http://localhost:${port}`));
