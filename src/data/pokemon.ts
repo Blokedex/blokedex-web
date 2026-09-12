@@ -104,7 +104,7 @@ export const pokemonArticles: WikiArticle[] = [
         ],
       },
     ],
-    related: ["fertilidad", "genetica", "fusiones"],
+    related: ["fertilidad", "genetica"],
   },
   {
     slug: "fertilidad",

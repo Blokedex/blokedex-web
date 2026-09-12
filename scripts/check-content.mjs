@@ -81,7 +81,6 @@ for (const slug of [
   "exploracion",
   "tu-equipo",
   "crianza",
-  "fusiones",
   "legendarios",
   "medallas",
   "misiones",
