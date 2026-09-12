@@ -218,6 +218,10 @@ export const pokemonArticles: WikiArticle[] = [
     ],
     related: ["crianza", "fertilidad", "tu-equipo"],
   },
+  /*
+   * Apartado temporalmente desactivado para que no aparezca en la wiki.
+   * Se conserva el contenido completo para poder reactivarlo más adelante.
+   *
   {
     slug: "fusiones",
     title: "Fusiones: descubre a Volcadevoir",
@@ -269,6 +273,7 @@ export const pokemonArticles: WikiArticle[] = [
     ],
     related: ["crianza", "genetica", "tu-equipo"],
   },
+  */
   {
     slug: "legendarios",
     title: "Legendarios y singulares",

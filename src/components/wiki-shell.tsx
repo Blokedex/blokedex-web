@@ -39,7 +39,8 @@ const navGroups = [
     links: [
       { slug: "tu-equipo", label: "Tu equipo Pokémon", icon: "pokeball" },
       { slug: "crianza", label: "Crianza y genética", icon: "egg" },
-      { slug: "fusiones", label: "Fusiones", icon: "sparkles" },
+      // Apartado de fusiones temporalmente oculto; el contenido se conserva en pokemon.ts.
+      // { slug: "fusiones", label: "Fusiones", icon: "sparkles" },
       { slug: "legendarios", label: "Legendarios", icon: "flame" },
       { slug: "medallas", label: "Medallas y Liga", icon: "trophy" },
       { slug: "misiones", label: "Misiones", icon: "scroll-text" },
